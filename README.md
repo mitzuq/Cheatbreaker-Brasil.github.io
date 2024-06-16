@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://discord.gg/QZXUkxrfzB">Discord server</a>
   ·
-  <a href="https://mitzuq.github.io/Cheatbreaker-3.1.github.io/">Website</a>
+  <a href="https://mitzuq.github.io/Cheatbreaker-Brasil.github.io/">Website</a>
 </p>
 
 <p align="center">
